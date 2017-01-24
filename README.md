@@ -1,2 +1,3 @@
 # CS51
-# This is a ReadMe file.
+
+This is a journey to learn more about git!
